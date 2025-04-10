@@ -1,4 +1,4 @@
-# 📝 Remix Notes App
+# 📝 NoteEase: A better way to take and store notes.
 
 A full-stack notes application built with **Remix**, showcasing core features like routing, data handling, and styling. Instead of using a traditional database, this project stores notes in a **local JSON file**, making it simple yet effective for learning and prototyping.
 
